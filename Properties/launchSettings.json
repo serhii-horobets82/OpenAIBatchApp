@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OpenAIBatchApp": {
+      "commandName": "Project",
+      "commandLineArgs": "in out 1"
+    }
+  }
+}
